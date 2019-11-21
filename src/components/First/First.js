@@ -7,7 +7,7 @@ class First extends Component {
             <div>
         		<h3>My name Is : {this.props.name} </h3>
         		<p>Email : {this.props.email}</p>
-        		<p>Phone Number : {this.props.phone} </p>
+        		<p>Phone NO : {this.props.phone} </p>
         	</div>
         );
     }
